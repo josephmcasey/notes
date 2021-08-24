@@ -2,7 +2,7 @@
 tags: [Development Environment]
 title: Local Development Environment Setup
 created: '2021-08-23T21:54:37.222Z'
-modified: '2021-08-23T23:45:42.898Z'
+modified: '2021-08-24T03:34:59.871Z'
 ---
 
 # Local Development Environment Setup
@@ -21,5 +21,6 @@ modified: '2021-08-23T23:45:42.898Z'
 - 
 
 ## Package 
+x
 
-Test test test
+hmmmm
