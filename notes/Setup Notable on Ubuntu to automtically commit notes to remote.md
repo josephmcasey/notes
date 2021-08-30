@@ -3,7 +3,7 @@ attachments: [rc.local.png, system_rc-local.service.png, systemctl rc-local.png]
 tags: [git, local, ubuntu]
 title: Setup Notable on Ubuntu to automtically commit notes to remote
 created: '2021-08-28T17:24:08.035Z'
-modified: '2021-08-30T19:12:06.488Z'
+modified: '2021-08-30T19:15:14.578Z'
 ---
 
 # Setup Notable on Ubuntu to automtically commit notes to remote 

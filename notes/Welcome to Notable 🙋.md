@@ -1,10 +1,11 @@
 ---
 attachments: [icon.png]
+deleted: true
 pinned: true
 tags: [Notebooks/Tutorial]
 title: "Welcome to Notable \U0001F64B"
 created: '2019-05-16T14:56:08.914Z'
-modified: '2019-06-06T12:20:10.875Z'
+modified: '2021-08-30T19:15:30.945Z'
 ---
 
 # Welcome to Notable :raising_hand_woman:
