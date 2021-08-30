@@ -2,15 +2,17 @@
 tags: [ubuntu]
 title: Cloud Bootstrap
 created: '2021-08-30T22:42:49.467Z'
-modified: '2021-08-30T22:58:30.310Z'
+modified: '2021-08-30T23:05:52.212Z'
 ---
 
 # Cloud Bootstrap
 
-- Opinionated Standard for Cloud Platform
+An Opinionated Standard for Cloud Platform
   - Recommendation based on allocated budget
+    - Budget summary estimates
+    - Allow for optional software services
   - Recommendation based on operational capacity
-  - Recommendation based on available Technical Talent
+    - Bootstrap Managed Services
 
 Cloud Product Bootstrap:
 - Supported Platform:
