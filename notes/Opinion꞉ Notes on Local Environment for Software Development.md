@@ -1,8 +1,8 @@
 ---
-attachments: [rc.local.png, system_rc-local.service.png]
+attachments: [rc.local.png, system_rc-local.service.png, systemctl rc-local.png]
 title: 'Opinion: Notes on Local Environment for Software Development'
 created: '2021-08-28T17:24:08.035Z'
-modified: '2021-08-30T18:06:06.925Z'
+modified: '2021-08-30T18:11:09.633Z'
 ---
 
 # Opinion: Notes on Local Environment for Software Development
@@ -13,6 +13,8 @@ modified: '2021-08-30T18:06:06.925Z'
 ![/etc/rc.local](@attachment/rc.local.png)
 
 ![/etc/systemd/system/rc-local.service](@attachment/system_rc-local.service.png)
+
+![systemctl list-units rc-local.service](@attachment/systemctl rc-local.png)
 
 --- 
 
