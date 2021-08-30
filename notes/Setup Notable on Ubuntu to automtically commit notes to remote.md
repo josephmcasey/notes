@@ -3,7 +3,7 @@ attachments: [rc.local.png, system_rc-local.service.png, systemctl rc-local.png]
 tags: [git, local, ubuntu]
 title: Setup Notable on Ubuntu to automtically commit notes to remote
 created: '2021-08-28T17:24:08.035Z'
-modified: '2021-08-30T18:19:50.604Z'
+modified: '2021-08-30T19:12:06.488Z'
 ---
 
 # Setup Notable on Ubuntu to automtically commit notes to remote 
@@ -19,7 +19,7 @@ modified: '2021-08-30T18:19:50.604Z'
 
 --- 
 
-## Resources
+### Resources
 - [gitwatch](https://github.com/gitwatch/gitwatch#what-to-use-it-for)
 - [Example of Notes](https://github.com/josephmcasey/notes)
 - [inotifywait Manual](https://linux.die.net/man/1/inotifywait)
@@ -29,8 +29,11 @@ modified: '2021-08-30T18:19:50.604Z'
 - [Redhat Article](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
 
 
-
-
 ### Article Titles:
 - Opinion: Notes on Local Environment for Software Development
 - Setup Notable on Ubuntu to automtically commit notes to remote
+
+
+### Ideas
+- Perpetuate notes committed to GitHub and automatically reformat markdown files to GitHub Pages Website
+- For companies, each organization in GitHub could have a single note repository that every person on a software team helps write and maintain, acting as an intermediary to a team wiki
