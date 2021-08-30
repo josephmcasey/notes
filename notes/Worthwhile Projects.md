@@ -2,7 +2,7 @@
 tags: [ubuntu]
 title: Worthwhile Projects
 created: '2021-08-30T22:42:49.467Z'
-modified: '2021-08-30T22:50:18.688Z'
+modified: '2021-08-30T22:52:17.027Z'
 ---
 
 # Worthwhile Projects
@@ -12,8 +12,9 @@ modified: '2021-08-30T22:50:18.688Z'
   - Recommendation based on operational capacity
 
 
-- Bootstrap for Machine Learning 
-  - AWS, GCP, Azure, Alibaba
+- Cloud Bootstrap
+  - Platform: AWS, GCP, Azure, Alibaba
+  - Product: Machine Learning
 
 
 
