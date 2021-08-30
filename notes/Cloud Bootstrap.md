@@ -2,7 +2,7 @@
 tags: [ubuntu]
 title: Cloud Bootstrap
 created: '2021-08-30T22:42:49.467Z'
-modified: '2021-08-30T23:05:52.212Z'
+modified: '2021-08-30T23:08:20.468Z'
 ---
 
 # Cloud Bootstrap
@@ -41,7 +41,7 @@ Kubernetes: EKS/Fargate/Kops
 
 Infrastructure: Crossplane
 Chaos Engineering: LitmusChaos V2
-Git Ops: DevTron, ArgoCD,  
+Git Ops: DevTron, ArgoCD, 
 
 
 

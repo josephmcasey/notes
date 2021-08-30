@@ -1,11 +1,11 @@
 ---
 tags: [ubuntu]
-title: Awesome Developer Operations Technologies
+title: Awesome Tech
 created: '2021-08-30T22:58:39.246Z'
-modified: '2021-08-30T23:02:02.565Z'
+modified: '2021-08-30T23:08:57.069Z'
 ---
 
-# Awesome Developer Operations Technologies
+# Awesome Tech
 
 
 Dapr
@@ -19,3 +19,5 @@ https://helm.sh/
 
 Headless CMS
 https://strapi.io
+
+
