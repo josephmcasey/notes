@@ -1,8 +1,8 @@
 ---
-tags: [Basics, Notebooks/Tutorial]
+tags: [Notebooks/Tutorial]
 title: 05 - Notes
 created: '2019-04-30T21:17:06.073Z'
-modified: '2019-07-27T15:38:12.690Z'
+modified: '2021-08-30T19:17:47.719Z'
 ---
 
 # 05 - Notes
