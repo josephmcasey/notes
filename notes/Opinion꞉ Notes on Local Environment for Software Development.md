@@ -2,7 +2,7 @@
 attachments: [rc.local.png, system_rc-local.service.png, systemctl rc-local.png]
 title: 'Opinion: Notes on Local Environment for Software Development'
 created: '2021-08-28T17:24:08.035Z'
-modified: '2021-08-30T18:12:06.996Z'
+modified: '2021-08-30T18:14:12.430Z'
 ---
 
 # Opinion: Notes on Local Environment for Software Development
@@ -24,4 +24,4 @@ modified: '2021-08-30T18:12:06.996Z'
 - [inotifywait Manual](https://linux.die.net/man/1/inotifywait)
 - [Git Repo for inotify-tools](https://github.com/inotify-tools/inotify-tools)
 - [Linux Wiki - Systemd Writing Unit Files](https://wiki.archlinux.org/title/Systemd#Writing_unit_files)
-
+- [Notable - Note App](https://github.com/notable/notable)
