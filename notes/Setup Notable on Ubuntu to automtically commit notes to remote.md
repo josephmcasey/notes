@@ -1,11 +1,12 @@
 ---
 attachments: [rc.local.png, system_rc-local.service.png, systemctl rc-local.png]
-title: 'Opinion: Notes on Local Environment for Software Development'
+tags: [git, local, ubuntu]
+title: Setup Notable on Ubuntu to automtically commit notes to remote
 created: '2021-08-28T17:24:08.035Z'
-modified: '2021-08-30T18:14:12.430Z'
+modified: '2021-08-30T18:19:50.604Z'
 ---
 
-# Opinion: Notes on Local Environment for Software Development
+# Setup Notable on Ubuntu to automtically commit notes to remote 
 
 
 
@@ -25,3 +26,11 @@ modified: '2021-08-30T18:14:12.430Z'
 - [Git Repo for inotify-tools](https://github.com/inotify-tools/inotify-tools)
 - [Linux Wiki - Systemd Writing Unit Files](https://wiki.archlinux.org/title/Systemd#Writing_unit_files)
 - [Notable - Note App](https://github.com/notable/notable)
+- [Redhat Article](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
+
+
+
+
+### Article Titles:
+- Opinion: Notes on Local Environment for Software Development
+- Setup Notable on Ubuntu to automtically commit notes to remote
