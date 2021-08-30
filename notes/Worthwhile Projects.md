@@ -2,7 +2,7 @@
 tags: [ubuntu]
 title: Worthwhile Projects
 created: '2021-08-30T22:42:49.467Z'
-modified: '2021-08-30T22:48:43.893Z'
+modified: '2021-08-30T22:50:18.688Z'
 ---
 
 # Worthwhile Projects
@@ -21,6 +21,7 @@ modified: '2021-08-30T22:48:43.893Z'
 
 
 Account Types:
-- Dev
-- QA
+- Development
+- Testing
+- Staging
 - Production
