@@ -2,7 +2,7 @@
 tags: [ubuntu]
 title: Awesome Kubernetes Tools
 created: '2021-08-30T22:58:39.246Z'
-modified: '2021-08-31T01:04:33.585Z'
+modified: '2021-08-31T01:28:29.728Z'
 ---
 
 # Awesome Kubernetes Tools
@@ -44,10 +44,12 @@ https://litmuschaos.io/
 
 --------
 
-### 
+## X
 
-Kuebvela - https://kubevela.io/
+### Preferred
+[Kuebvela](https://kubevela.io/)
 
+### Alternatives
 
 --------
 
