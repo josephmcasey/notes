@@ -2,7 +2,7 @@
 tags: [ubuntu]
 title: Awesome Kubernetes Tools
 created: '2021-08-30T22:58:39.246Z'
-modified: '2021-08-31T01:28:29.728Z'
+modified: '2021-08-31T01:30:47.376Z'
 ---
 
 # Awesome Kubernetes Tools
@@ -71,5 +71,6 @@ url:
 reason: 
 
 ### Alternatives
-- Terraform
-- Plurami
+- [Terraform]()
+- [Pulumi](https://www.pulumi.com/)
+
