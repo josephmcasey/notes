@@ -1,12 +1,14 @@
 ---
 tags: [ubuntu]
-title: Awesome Kubernetes
+title: Awesome Kubernetes Tools
 created: '2021-08-30T22:58:39.246Z'
-modified: '2021-08-31T00:38:29.588Z'
+modified: '2021-08-31T01:04:33.585Z'
 ---
 
-# Awesome Kubernetes
+# Awesome Kubernetes Tools
 
+Lists:
+https://collabnix.github.io/kubetools/
 
 --------
 
