@@ -2,7 +2,7 @@
 tags: [ubuntu]
 title: Cloud Bootstrap
 created: '2021-08-30T22:42:49.467Z'
-modified: '2021-08-31T02:17:39.119Z'
+modified: '2021-08-31T02:48:35.448Z'
 ---
 
 # Cloud Bootstrap
@@ -19,7 +19,6 @@ Cloud Product Bootstrap:
   - AWS
   - GCP
   - Azure
-  - Alibaba
 - Product:
   - Machine Learning (ML)
   - Internet of Things (IoT)
@@ -31,18 +30,4 @@ Account Types:
 - Testing
 - Staging
 - Production
-
-
-
-
-
-Machine Learning Bootstrap:
-
-Kubernetes: EKS/Fargate/Kops
-
-Infrastructure: Crossplane
-Chaos Engineering: LitmusChaos V2
-Git Ops: DevTron, ArgoCD, 
-
-
 

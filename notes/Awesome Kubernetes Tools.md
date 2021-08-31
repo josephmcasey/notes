@@ -1,8 +1,8 @@
 ---
-tags: [ubuntu]
+tags: [Notebooks/Awesome, Notebooks/K8s, ubuntu]
 title: Awesome Kubernetes Tools
 created: '2021-08-30T22:58:39.246Z'
-modified: '2021-08-31T01:30:47.376Z'
+modified: '2021-08-31T02:48:04.212Z'
 ---
 
 # Awesome Kubernetes Tools
