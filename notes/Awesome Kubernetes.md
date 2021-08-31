@@ -1,8 +1,8 @@
 ---
 tags: [ubuntu]
-title: Awesome Tech
-created: '2021-08-31T00:34:13.185Z'
-modified: '2021-08-31T00:34:13.185Z'
+title: Awesome Kubernetes
+created: '2021-08-30T22:58:39.246Z'
+modified: '2021-08-31T00:34:07.966Z'
 ---
 
 # Awesome Kubernetes
