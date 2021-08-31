@@ -2,37 +2,52 @@
 tags: [ubuntu]
 title: Awesome Kubernetes
 created: '2021-08-30T22:58:39.246Z'
-modified: '2021-08-31T00:34:07.966Z'
+modified: '2021-08-31T00:38:29.588Z'
 ---
 
 # Awesome Kubernetes
 
 
-Dapr
-https://dapr.io/
+--------
 
-Devtron
-https://devtron.ai/
+##
 
-Helm
-https://helm.sh/
+[Helm](https://helm.sh/)
 
-Headless CMS
-https://strapi.io
+--------
 
-## Chaos Engineering Platform
-https://litmuschaos.io/
+
+[Dapr](https://dapr.io/)
+
+-----
+
+## Deployment Platforms
+[Devtron](https://devtron.ai/)
+
+--------
+
+## Chaos Engineering
+
+### Recommended
 https://chaostoolkit.org/
+https://litmuschaos.io/
 
-# Docker 
+### Alternatives
+
+--------
+
+## Docker Image Builder
+[Shipwright](https://github.com/shipwright-io/build)
 
 
-Shipwright - Docker Image Builder
-https://github.com/shipwright-io/build
+--------
 
+### 
 
 Kuebvela - https://kubevela.io/
 
+
+--------
 
 ## Policies as Code (PaC)
 
@@ -42,6 +57,7 @@ Kuebvela - https://kubevela.io/
 #### Alternatives
 - OPA - https://github.com/open-policy-agent/gatekeeper
 
+--------
 
 ## Cloud Infrastructure Provisioner
 
@@ -52,4 +68,4 @@ reason:
 
 ### Alternatives
 - Terraform
-- P
+- Plurami
