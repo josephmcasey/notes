@@ -2,7 +2,7 @@
 tags: [ubuntu]
 title: Cloud Bootstrap
 created: '2021-08-30T22:42:49.467Z'
-modified: '2021-08-30T23:08:20.468Z'
+modified: '2021-08-31T02:17:39.119Z'
 ---
 
 # Cloud Bootstrap
@@ -26,6 +26,7 @@ Cloud Product Bootstrap:
   - Software as a Service (SaaS)
 
 Account Types:
+- Control Tower
 - Development
 - Testing
 - Staging
