@@ -2,7 +2,7 @@
 tags: [ubuntu]
 title: Awesome Tech
 created: '2021-08-30T22:58:39.246Z'
-modified: '2021-08-31T00:15:02.424Z'
+modified: '2021-08-31T00:23:12.266Z'
 ---
 
 # Awesome Tech
@@ -29,3 +29,8 @@ https://github.com/shipwright-io/build
 
 Kuebvela - 
 https://kubevela.io/
+
+
+OPA - Policies as Code (PaC)
+https://www.openpolicyagent.org/docs/latest/
+
